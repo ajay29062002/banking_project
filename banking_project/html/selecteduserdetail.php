@@ -22,7 +22,7 @@ if(isset($_POST['submit']))
    {
         echo '<script type="text/javascript">';
         echo ' alert("Oops! Negative values cannot be transferred")';  // showing an alert box.
-        echo '</script>';
+        echo "</script>";
     }
 
 
